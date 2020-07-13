@@ -1,2 +1,2 @@
 # FNCL
-Classification of Fake news using NLP
+Classification of Fake news using LSTM
